@@ -1,0 +1,148 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!F:/MyJob/Hirose70239/PCB/Hirose7039_A12.brd!Wed Jan 14 09:42:22 2026!-176.2000!-376.2000!357.2000!55.6000!0.0001!millimeters!HIROSE70239!10.400000 mil!2!UP TO DATE!
+S!IR_1V8!C1!1!@hirose70239.schematic1(sch_1):ins3270434@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_0.1UF!!!F15!!!!!!!!!!
+S!GND!C1!2!@hirose70239.schematic1(sch_1):ins3270434@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_0.1UF!!!F15!!!!!!!!!!
+S!IR_1V8!C2!1!@hirose70239.schematic1(sch_1):ins3270662@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_0.1UF!!!F14!!!!!!!!!!
+S!GND!C2!2!@hirose70239.schematic1(sch_1):ins3270662@discrete.\cap np.normal\(chips)!CAP NP_C0402_SMT_0.1UF!!!F14!!!!!!!!!!
+S!IR_5V0!D1!2!@hirose70239.schematic1(sch_1):ins3267525@discrete.\led.normal\(chips)!LED_LED0402_SMT_LED!!!F13!!!!!!!!!!
+S!N3267563!D1!1!@hirose70239.schematic1(sch_1):ins3267525@discrete.\led.normal\(chips)!LED_LED0402_SMT_LED!!!F13!!!!!!!!!!
+S!IR_5V0!D2!2!@hirose70239.schematic1(sch_1):ins3267477@discrete.\led.normal\(chips)!LED_LED0402_SMT_LED!!!F12!!!!!!!!!!
+S!N3267503!D2!1!@hirose70239.schematic1(sch_1):ins3267477@discrete.\led.normal\(chips)!LED_LED0402_SMT_LED!!!F12!!!!!!!!!!
+S!N3267747!Q2!1!@hirose70239.schematic1(sch_1):ins3267699@transistor.\mmbt2222al.normal\(chips)!MMBT2222AL_SOT-23-3_MMBT2222ALT1G!!!F9!!!!!!!!!!
+S!N3267655!Q2!3!@hirose70239.schematic1(sch_1):ins3267699@transistor.\mmbt2222al.normal\(chips)!MMBT2222AL_SOT-23-3_MMBT2222ALT1G!!!F9!!!!!!!!!!
+S!GND!Q2!2!@hirose70239.schematic1(sch_1):ins3267699@transistor.\mmbt2222al.normal\(chips)!MMBT2222AL_SOT-23-3_MMBT2222ALT1G!!!F9!!!!!!!!!!
+S!N3267743!Q1!1!@hirose70239.schematic1(sch_1):ins3267681@transistor.\mmbt2222al.normal\(chips)!MMBT2222AL_SOT-23-3_MMBT2222ALT1G!!!F8!!!!!!!!!!
+S!N3267651!Q1!3!@hirose70239.schematic1(sch_1):ins3267681@transistor.\mmbt2222al.normal\(chips)!MMBT2222AL_SOT-23-3_MMBT2222ALT1G!!!F8!!!!!!!!!!
+S!GND!Q1!2!@hirose70239.schematic1(sch_1):ins3267681@transistor.\mmbt2222al.normal\(chips)!MMBT2222AL_SOT-23-3_MMBT2222ALT1G!!!F8!!!!!!!!!!
+S!N3267651!R6!1!@hirose70239.schematic1(sch_1):ins3267585@discrete.\r.normal\(chips)!R_R0402_SMT_20K!!!F7!!!!!!!!!!
+S!N3267563!R6!2!@hirose70239.schematic1(sch_1):ins3267585@discrete.\r.normal\(chips)!R_R0402_SMT_20K!!!F7!!!!!!!!!!
+S!N3267655!R7!1!@hirose70239.schematic1(sch_1):ins3267601@discrete.\r.normal\(chips)!R_R0402_SMT_20K!!!F6!!!!!!!!!!
+S!N3267503!R7!2!@hirose70239.schematic1(sch_1):ins3267601@discrete.\r.normal\(chips)!R_R0402_SMT_20K!!!F6!!!!!!!!!!
+S!IR_UART_TX!R2!1!@hirose70239.schematic1(sch_1):ins3267665@discrete.\r.normal\(chips)!R_R0402_SMT_1K!!!F5!!!!!!!!!!
+S!N3267743!R2!2!@hirose70239.schematic1(sch_1):ins3267665@discrete.\r.normal\(chips)!R_R0402_SMT_1K!!!F5!!!!!!!!!!
+S!IR_UART_RX!R1!1!@hirose70239.schematic1(sch_1):ins3267753@discrete.\r.normal\(chips)!R_R0402_SMT_1K!!!F4!!!!!!!!!!
+S!N3267747!R1!2!@hirose70239.schematic1(sch_1):ins3267753@discrete.\r.normal\(chips)!R_R0402_SMT_1K!!!F4!!!!!!!!!!
+S!ALERT!R3!1!@hirose70239.schematic1(sch_1):ins3271257@discrete.\r.normal\(chips)!R_R0402_SMT_10K!!!F3!!!!!!!!!!
+S!IR_1V8!R3!2!@hirose70239.schematic1(sch_1):ins3271257@discrete.\r.normal\(chips)!R_R0402_SMT_10K!!!F3!!!!!!!!!!
+S!IR_D15!R4!1!@hirose70239.schematic1(sch_1):ins3271624@discrete.\r.normal\(chips)!R_R0402_SMT_10K!!!F2!!!!!!!!!!
+S!IR_1V8!R4!2!@hirose70239.schematic1(sch_1):ins3271624@discrete.\r.normal\(chips)!R_R0402_SMT_10K!!!F2!!!!!!!!!!
+S!IR_D14!R5!1!@hirose70239.schematic1(sch_1):ins3271186@discrete.\r.normal\(chips)!R_R0402_SMT_10K!!!F1!!!!!!!!!!
+S!IR_1V8!R5!2!@hirose70239.schematic1(sch_1):ins3271186@discrete.\r.normal\(chips)!R_R0402_SMT_10K!!!F1!!!!!!!!!!
+S!GND!U1!4!@hirose70239.schematic1(sch_1):ins3267986@library1.\tmp117.normal\(chips)!TMP117_WDFN-6-EP-2X2_TMP117!!!F0!!!!!!!!!!
+S!ALERT!U1!3!@hirose70239.schematic1(sch_1):ins3267986@library1.\tmp117.normal\(chips)!TMP117_WDFN-6-EP-2X2_TMP117!!!F0!!!!!!!!!!
+S!GND!U1!7!@hirose70239.schematic1(sch_1):ins3267986@library1.\tmp117.normal\(chips)!TMP117_WDFN-6-EP-2X2_TMP117!!!F0!!!!!!!!!!
+S!GND!U1!2!@hirose70239.schematic1(sch_1):ins3267986@library1.\tmp117.normal\(chips)!TMP117_WDFN-6-EP-2X2_TMP117!!!F0!!!!!!!!!!
+S!IR_D14!U1!1!@hirose70239.schematic1(sch_1):ins3267986@library1.\tmp117.normal\(chips)!TMP117_WDFN-6-EP-2X2_TMP117!!!F0!!!!!!!!!!
+S!IR_D15!U1!6!@hirose70239.schematic1(sch_1):ins3267986@library1.\tmp117.normal\(chips)!TMP117_WDFN-6-EP-2X2_TMP117!!!F0!!!!!!!!!!
+S!IR_1V8!U1!5!@hirose70239.schematic1(sch_1):ins3267986@library1.\tmp117.normal\(chips)!TMP117_WDFN-6-EP-2X2_TMP117!!!F0!!!!!!!!!!
+S!IR_PCLK!J1!29!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D0!J1!13!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D1!J1!14!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D10!J1!23!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D11!J1!24!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D12!J1!25!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D13!J1!26!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D2!J1!15!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D3!J1!16!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D4!J1!17!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D5!J1!18!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D6!J1!19!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D7!J1!20!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D8!J1!21!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_D9!J1!22!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_HSYNC!J1!28!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_VSYNC!J1!27!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!GND!J1!12!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!GND!J1!30!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!GND!J1!33!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!GND!J1!36!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!GND!J1!39!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!GND!J1!4!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!GND!J1!40!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!GND!J1!41!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!GND!J1!5!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!!J1!31!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!!J1!32!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!!J1!34!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!!J1!35!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!!J1!37!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!!J1!38!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!!J1!10!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!!J1!11!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!!J1!8!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!!J1!9!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_UART_RX!J1!6!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_UART_TX!J1!7!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_5V0!J1!1!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_5V0!J1!2!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_5V0!J1!3!@hirose70239.schematic1(sch_1):ins3264445@ircam.\hirosefpc_0.normal\(chips)!HIROSEFPC_0_FH35C-39S-0D3SHW_HIROSE FH35C-39S-0.3SHW!!!F11!!!!!!!!!!
+S!IR_5V0!J2!1!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_1V8!J2!10!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_1V8!J2!11!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!12!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!13!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_3V3!J2!14!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!15!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_3V3!J2!16!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_UART_TX!J2!17!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!18!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D0!J2!19!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_5V0!J2!2!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_UART_RX!J2!20!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D2!J2!21!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D3!J2!22!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D4!J2!23!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D1!J2!24!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D6!J2!25!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D7!J2!26!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D8!J2!27!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D5!J2!28!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D10!J2!29!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_5V0!J2!3!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D15!J2!30!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D12!J2!31!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D11!J2!32!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_VSYNC!J2!33!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D9!J2!34!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_PCLK!J2!35!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D14!J2!36!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!37!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!38!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!39!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_5V0!J2!4!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!40!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!41!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!42!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!43!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!44!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!45!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!46!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!47!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!48!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_D13!J2!49!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!5!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!50!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_HSYNC!J2!51!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!52!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!53!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!54!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!55!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!56!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!57!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!58!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!59!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!6!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!60!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!61!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!62!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!63!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!64!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!65!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!66!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!67!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!68!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!!J2!69!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!7!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!70!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!GND!J2!8!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!
+S!IR_1V8!J2!9!@hirose70239.schematic1(sch_1):ins3261346@library1.\header2x35.normal\(chips)!HEADER2X35_DF40HC-70DS__DF40HC(3.0)-70DS-0.4V(51)!!!F10!!!!!!!!!!

@@ -1,0 +1,41 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto-interactive Convert Corner - Aicc                           )
+(                                                                     )
+(    Drawing          : temp.brd                                      )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Thu Jan 15 11:45:10 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 2 of 5 failed to convert
+
+Cline vertex:xy (4.2906 -15.9900)	subclass: TOP	net_name: IR_D15 
+Cline vertex:xy (7.3100 -8.7700)	subclass: BOTTOM	net_name: IR_D15 
+
+CommandEnd AiCC **************************************************************
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 2 of 5 failed to convert
+
+Cline vertex:xy (4.2906 -15.9900)	subclass: TOP	net_name: IR_D15 
+Cline vertex:xy (7.3100 -8.7700)	subclass: BOTTOM	net_name: IR_D15 
+
+CommandEnd AiCC **************************************************************

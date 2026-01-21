@@ -1,0 +1,37 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    RENAME REFDES                                                    )
+(                                                                     )
+(    Drawing          : Hirose7039_A12.brd                            )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Wed Jan 14 09:41:49 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Renaming components on BOTH_SIDES on entire BOARD
+    Extents: (-176.2000,-376.2000) (357.2000,55.6000)
+
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the RIGHT, from the top down.
+
+OLD J3    NEW J1
+OLD R71    NEW R1
+OLD R67    NEW R2
+OLD R72    NEW R3
+OLD C1    NEW C1
+OLD C2    NEW C2
+OLD D2    NEW D1
+OLD D4    NEW D2
+OLD U1    NEW U1
+OLD Q3    NEW Q1
+OLD Q2    NEW Q2
+OLD R73    NEW R4
+OLD R74    NEW R5
+OLD R66    NEW R6
+OLD R70    NEW R7
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the LEFT, from the top down.
+
+Reference designator J1 already exists ... skipping to J2.
+OLD J8    NEW J2
